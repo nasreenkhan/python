@@ -1,6 +1,4 @@
-#Python
-Python Practices
-
+#Python Practices
 
 #Finding Different Rows from Two Identical Excel Files.
 	Data Comparison between two excel files and write different rows from one excel file.
